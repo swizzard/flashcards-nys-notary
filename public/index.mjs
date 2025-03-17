@@ -11,8 +11,9 @@ function main() {
   window.curr = curr;
   let correctHandler = function() {
     if (stack.length === 0) {
-      stack = incorrect.length > 0 ? incorrect : cards;
+      stack = incorrect.length > 0 ? [...incorrect] : [...cards];
       window.stack = stack;
+      incorrect = [];
     }
     curr = stack.pop();
     resetCard(curr);
@@ -20,8 +21,9 @@ function main() {
   let incorrectHandler = function() {
     incorrect.push(curr);
     if (stack.length === 0) {
-      stack = incorrect.length > 0 ? incorrect : cards;
+      stack = incorrect.length > 0 ? [...incorrect] : [...cards];
       window.stack = stack;
+      incorrect = [];
     }
     curr = stack.pop();
     resetCard(curr);

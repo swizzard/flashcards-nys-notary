@@ -1,0 +1,11 @@
+div#content {
+  width: 100%;
+  background: #666;
+  color: #fff;
+  text-align: center;
+}
+
+div#card {
+  font-size: 60px;
+  padding: 10px;
+}

@@ -1,6 +1,6 @@
 const cards = [
-  { front: "আঘ", back: "am (mango)" },
-  { front: "ঘা", back: "ma (mother)" },
+  { front: "আম", back: "am (mango)" },
+  { front: "মা", back: "ma (mother)" },
 ];
 
 export default cards;
