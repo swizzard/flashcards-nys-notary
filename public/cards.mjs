@@ -87,7 +87,7 @@ const cards = [
   { front: "শনিবার", back: "ʃônibar\n(on) saturday" },
   { front: "আমরা নিইনি", back: "amra niini\nwe did not take" },
   { front: "উনি আমার মামা", back: "uni amar mama\nhe is my (maternal) uncle" },
-  { front: "কেমন", back: "kal\nyesterday, tomorrow" },
+  { front: "কাল", back: "kal\nyesterday, tomorrow" },
   { front: "কেমন?", back: "kæmôn?\nhow?" },
   { front: "ওরা নিলনা", back: "ora nilôna\nthey did not take" },
   { front: "আমি আনিনি", back: "ami anini\ni did not bring" },
