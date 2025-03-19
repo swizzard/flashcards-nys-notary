@@ -26,6 +26,7 @@ div#card {
   margin-top: 10px;
 }
 
-div#buttons {
-  padding-top: 10px;
+div#buttons,
+div#about {
+  margin-top: 20px;
 }
