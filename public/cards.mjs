@@ -1,4 +1,17 @@
 const cards = [
+  { front: "উনি আমার বোন নন", back: "uni amar bon nɔn\nshe is not my sister" },
+  { front: "আমি আনলাম", back: "ami anlam\ni brought" },
+  { front: "আমি", back: "ami\ni" },
+  { front: "আঙুল", back: "aŋul\nfinger" },
+  { front: "বিষ", back: "biʂ\npoison" },
+  { front: "মানুষ", back: "manuʂ\nman, mankind" },
+  { front: "ও", back: "o\nhe, she" },
+  {
+    front: "সোসবার আসবো?",
+    back: "sombar asbo?\nshould i/we come (on) monday?",
+  },
+  { front: "সেখানে সুব গরম", back: "sekhane sub gɔrôm\nit's very hot there" },
+  { front: "এখানে এসে বসুন", back: "ekhane ese bɔsun\ncome and sit here" },
   {
     front: "এ সব লিখে নেব?",
     back: "e sɔb likhe nebô?\nshall i write all this down?",
