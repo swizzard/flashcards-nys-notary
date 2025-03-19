@@ -24,8 +24,41 @@
       <button type="button" id="incorrect">incorrect</button>
       <button type="button" id="correct">correct</button>
     </div>
-  </div>
-  <script type="module" src="./index.mjs"></script>
+    <div>
+      <details>
+        <summary>how-to</summary>
+        <p>clicking on the card flips from front to back</p>
+        <p><code>incorrect</code> will move the card to the back of the stack</p>
+        <p><code>correct</code> will remove the card from the stack</p>
+        <p>what those words mean to you otherwise is up to you</p>
+        <p>when the stack is emtpy, it will reset</p>
+      </details>
+      <details>
+        <summary>about</summary>
+        <p><a href="https://swizzard.pizza" title="my homepage" target="_blank">sam raker</a> made this website to help
+          him learn বাংলা(bangla/bengali)</p>
+        <p>bangla vocabulary, romanization, and english translation are all taken from <a
+            href="https://archive.org/details/bengalicompletec0000radi"
+            title="archive dot org copy of Complete Bengali by William Radice" target="_blank">Complete Bengali by
+            William Radice</a>. no copyright is claimed.</p>
+        <p>as of <time datetime="2025-03-19T09:59:00-05:00">march 19, 2025</time> the list contains all words through
+          unit 5, plus a few extras.</p>
+      </details>
+      <details>
+        <summary>d.i.y.</summary>
+        <p>it's just html, css, and vanilla js</p>
+        <p>fork <a href="https://github.com/swizzard/flashcards" title="the repo, on github" target="_blank">the
+            repo</a> and replace the <code>front</code> and <code>back</code> of the objects in <a
+            href="https://github.com/swizzard/flashcards/blob/main/public/cards.mjs" title="cards.mjs"
+            target="_blank"><code>cards.mjs</code></a> (you'll probably want to change the <a
+            href="https://github.com/swizzard/flashcards/blob/main/public/index.html" title="index.html"
+            target="_blank">title</a> too)
+        </p>
+        <p>host your own flashcards on <a href="https://netlify.com" title="netlify, an adequate hosting service"
+            target="_blank">netlify</a> <i>vel sim.</i></p>
+      </details>
+    </div>
+    <script type="module" src="./index.mjs"></script>
 </body>
 
 </html>
