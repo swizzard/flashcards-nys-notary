@@ -140,7 +140,7 @@ const cards = [
   { front: "রবিবার আসুন", back: "rôbibar asun\ncome (on) sunday" },
   { front: "আমরা নিইনা", back: "amra niina\nwe do not take" },
   {
-    front: "এরা সবাই শুক্রবার এগাল",
+    front: "এরা সবাই শুক্রবার গাল",
     back: "era sɔbai sukrônbar gælô\nthey all went on friday",
   },
   { front: "এখন দেব?", back: "ækhôn debô?\nshall i give it now?" },
