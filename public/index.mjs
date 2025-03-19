@@ -8,6 +8,7 @@ function main() {
 
   // original stack
   let stack = [...cards];
+  shuffle(stack);
 
   // replacement stack
   let incorrect = [];
@@ -16,23 +17,25 @@ function main() {
 
   // technically at this point we only need the handler names so we can remove them
   // but we might as well define them
-  const correctHandler = function() {
+  const correctHandler = function () {
     if (stack.length === 0) {
       // if we have `incorrect`, replace the stack with them, otherwise start anew
       // either way, we need to clear out `incorrect`
       stack = incorrect.length > 0 ? [...incorrect] : [...cards];
+      shuffle(stack);
       incorrect = [];
     }
     curr = stack.pop();
     resetCard(curr);
   };
 
-  const incorrectHandler = function() {
+  const incorrectHandler = function () {
     // save the incorrect card
     incorrect.push(curr);
     if (stack.length === 0) {
       // we know there's at least one incorrect, we just put it there
       stack = [...incorrect];
+      shuffle(stack);
       incorrect = [];
     }
     curr = stack.pop();
@@ -60,7 +63,7 @@ function main() {
     $card.innerText = front;
     // preemptive removal just in case
     $card.removeEventListener("click", cardHandler);
-    cardHandler = function() {
+    cardHandler = function () {
       // flip between `front` and `back` depending on `data-side`
       if (this.dataset.side === "front") {
         this.dataset.side = "back";
@@ -71,6 +74,13 @@ function main() {
       }
     };
     $card.addEventListener("click", cardHandler);
+  }
+  // from https://stackoverflow.com/a/12646864
+  function shuffle(array) {
+    for (let i = array.length - 1; i >= 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
   }
 }
 window.onload = main;
