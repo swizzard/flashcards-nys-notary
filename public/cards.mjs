@@ -64,7 +64,7 @@ const cards = [
   { front: "আমি খেয়ে এলাম", back: "ami kheye elam\ni came after eating" },
   { front: "ও শুলনা", back: "o ʃulôna\nhe/she did not lie down" },
   { front: "এনে", back: "ene\nhaving brought" },
-  { front: "শেকখে", back: "ʃekhe\nhe/she learns" },
+  { front: "শেখে", back: "ʃekhe\nhe/she learns" },
   {
     front: "সে নৌকো করে অনেক দূর গেল",
     back: "se noǔko kɔre ɔnek dūr gælô\nhe/she went a long way by boat",
