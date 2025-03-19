@@ -9,7 +9,7 @@ const cards = [
   { front: "মানুষ", back: "manuʂ\nman, mankind" },
   { front: "ও", back: "o\nhe, she" },
   {
-    front: "সোসবার আসবো?",
+    front: "সোমবার আসবো?",
     back: "sombar asbo?\nshould i/we come (on) monday?",
   },
   { front: "সেখানে সুব গরম", back: "sekhane sub gɔrôm\nit's very hot there" },
