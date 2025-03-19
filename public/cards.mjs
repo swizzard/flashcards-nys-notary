@@ -57,7 +57,7 @@ const cards = [
   { front: "দিক", back: "dik\ndirection" },
   { front: "কখন?", back: "kɔkhôn?\nwhen?" },
   { front: "কেউ", back: "keu\nanyone" },
-  { front: "কঅর?", back: "kar?\nwhose?" },
+  { front: "কার?", back: "kar?\nwhose?" },
   { front: "আমাকে", back: "amake\nme" },
   { front: "ওকে", back: "oke\nhim, her" },
   { front: "একে", back: "eke\nhim, her" },
