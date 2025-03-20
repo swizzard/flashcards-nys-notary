@@ -1,6 +1,66 @@
 // replace this with your own flashcards
 // `cards: Array<{front: string, back: string}`
 const cards = [
+  { front: "তুমি", back: "tumi\nyou" },
+  { front: "তোমার", back: "tomar\nyour" },
+  { front: "তোমাকে", back: "tomake\n(to) you" },
+  { front: "তোমরা", back: "tomra\nyou (pl.)" },
+  { front: "তারা", back: "tara\nthey" },
+  { front: "তাঁরা", back: "tãra\nthey" },
+  { front: "তাঁকে", back: "tãke\nhim, her" },
+  { front: "টাকা", back: "ʈaka\nmoney (rupee)" },
+  { front: "টুকরো", back: "ʈukro\nlittle piece" },
+  { front: "ছোট", back: "choʈô\nsmall" },
+  { front: "টেবিল", back: "ʈebil\ntable" },
+  { front: "একটা", back: "ækʈa\none" },
+  { front: "দুটো", back: "duʈo\ntwo" },
+  { front: "তিনটে", back: "tinʈe\nthree" },
+  { front: "এটা", back: "eʈa\nthis" },
+  { front: "ওটা", back: "oʈa\nthat" },
+  { front: "কটা?", back: "kɔʈa?\nhow much/many?" },
+  { front: "এটুকু", back: "eʈuku\nthis little bit" },
+  { front: "একটু", back: "ekʈu\na little" },
+  {
+    front: "তোমরা আর দেরি করোনা",
+    back: "tomra ar deri kôrona\ndon't delay any more",
+  },
+  {
+    front: "তুমি তবু বসে আছ?",
+    back: "tumi tôbu bôse achô?\nare you still sitting/waiting?",
+  },
+  {
+    front: "এটুুকু খেয়ে নিন",
+    back: "eʈuku kheye nin\n(please) eat this little bit",
+  },
+  {
+    front: "টেবিলটা তোমার কাছে টেনে নাও",
+    back: "ʈebilʈa tomar kache ʈene nao\npull the table near you",
+  },
+  {
+    front: "তোমরা কাল কটার সময় এলে?",
+    back: "tomra kal kɔʈar sɔmɔy ele?\nwhat time did you come yesterday?",
+  },
+  { front: "সাতটার সময়", back: "satʈar sɔmɔy\nat 7 o'clock" },
+  {
+    front: "মাছটা বেশ টাটকা",
+    back: "machʈa beʃ ʈaʈka\nthe fish is nice and fresh",
+  },
+  {
+    front: "তোমরা মাটিতে শুয়েছ কেন?",
+    back: "tomra maʈite ʃuyechô kænô?\nwhy did you lie (sleep) on the ground?",
+  },
+  {
+    front: "তিনি এলে তা৺কে বসতে বলো",
+    back: "tini ele tãke bôste bôlo\ntell him to wait when he comes",
+  },
+  {
+    front: "আমি কত টাকা দেব?",
+    back: "ami kata ʈaka debô?\nhow much shall i pay you?",
+  },
+  {
+    front: "আমটা সুন্দর, কিন্তু টক",
+    back: "amʈa sundôr, kintu ʈɔk\nthe mango is beautiful, but sour",
+  },
   { front: "উনি আমার বোন নন", back: "uni amar bon nɔn\nshe is not my sister" },
   { front: "আমি আনলাম", back: "ami anlam\ni brought" },
   { front: "আমি", back: "ami\ni" },
