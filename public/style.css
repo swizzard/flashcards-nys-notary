@@ -5,6 +5,8 @@ html {
 body {
   width: 100%;
   height: 100%;
+  --flag-green: #396b4c;
+  --flag-red: #e54b40;
 }
 
 div#content {
@@ -33,4 +35,20 @@ div#card {
 div#buttons,
 div#about {
   margin-top: 20px;
+}
+
+div#buttons button {
+  margin: 10px;
+  padding: 2% 4%;
+  border: none;
+}
+
+button#correct {
+  background-color: var(--flag-green);
+  color: #fff;
+}
+
+button#incorrect {
+  background-color: var(--flag-red);
+  color: #000;
 }
