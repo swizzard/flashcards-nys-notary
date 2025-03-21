@@ -1,6 +1,60 @@
 // replace this with your own flashcards
 // `cards: Array<{front: string, back: string}`
 const cards = [
+  { front: "যা", back: "y̌a\nwhich" },
+  { front: "যে", back: "y̌e\nwho" },
+  { front: "জমিদার", back: "jômidar\nlandlord" },
+  { front: "জুতো", back: "juto\nshoe(s)" },
+  { front: "জল", back: "jɔl\nwater" },
+  { front: "জিনিস", back: "jinis\nthing" },
+  { front: "স্বামী", back: "svamī\nhusband" },
+  { front: "আজকের কাজ", back: "ajker kaj\ntoday's work" },
+  { front: "জায়গা", back: "jayga\nplace" },
+  { front: "জ্বর", back: "jvɔr\nfever" },
+  { front: "হাসি", back: "hasi\nlaugh, smile" },
+  { front: "আমার জন্য", back: "amar jônyô\nfor me" },
+  { front: "তুমি যাও", back: "tumi y̌ao\nyou go" },
+  { front: "আমার মনে হয়", back: "amar mône hɔy\ni think" },
+  { front: "একজন লোক", back: "ækjɔn lok\na person" },
+  { front: "ব্যামো", back: "byæmo\ndisease" },
+  { front: "শ্যাম", back: "syæm\nblue-green" },
+  { front: "বিশ্বাস", back: "biʃvas\nbelief" },
+  { front: "ব্যবহার", back: "bybôhar\nbehavior" },
+  { front: "বিশ্ববিদ্যালয়", back: "biʃvôbidyalɔy\nuniversity" },
+  { front: "ওতে হাত দিওনা", back: "ote hat diona\ndon't touch that" },
+  { front: "এত জোরে হাঁটবেননা", back: "ætô jore hãʈbenna\ndon't walk so fast" },
+  {
+    front: "আলোটা কি জ্বেলে দেব?",
+    back: "aloʈa ki jvele debô?\nshall i turn on the light?",
+  },
+  {
+    front: "জামা গায় দিযে এসো",
+    back: "jama gay diye eso\ncome with a shirt on",
+  },
+  {
+    front: "বল তো এখন কটা বাজে?",
+    back: "bɔlô to ækhôn kɔʈa baje?\ntell (me), what time is it?",
+  },
+  {
+    front: "ওঁরা এক দিনেরজন্য এসেছেন",
+    back: "õra æk dinerjônyô esechen\nthey have come for a day",
+  },
+  {
+    front: "তোমার কি জ্বর হয়েছে?",
+    back: "tomar ki jvɔr hôyeche?\nhave you got fever?",
+  },
+  {
+    front: "জানালা দিয়ে বেশ রোদ আসছে",
+    back: "janala diye beʃ rod asche\nnice sunshine is coming through the window",
+  },
+  {
+    front: "ওঁরা এই মাত্র এলেন",
+    back: "õra ei matrô elen\nthey have just come",
+  },
+  {
+    front: "তাঁরা এই মাত্র গেলেন",
+    back: "tãra ei matrô gelen\nthey've just gone",
+  },
   { front: "তুমি", back: "tumi\nyou" },
   { front: "তোমার", back: "tomar\nyour" },
   { front: "তোমাকে", back: "tomake\n(to) you" },
