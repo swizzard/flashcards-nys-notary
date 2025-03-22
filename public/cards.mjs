@@ -281,7 +281,7 @@ const cards = [
   { front: "আমি আছি", back: "ami achi\ni am (present)" },
   { front: "আমরা ছিলাম", back: "amra chilam\nwe were (present)" },
   { front: "সে ছিলনা", back: "se chilôna\nhe/she was not present" },
-  { front: "ওথানে রেখেছি", back: "okhane rekhechi\n(i) have put (it) there" },
+  { front: "ওখানে রেখেছি", back: "okhane rekhechi\n(i) have put (it) there" },
   {
     front: "এঁকে আরো মাছ দাও",
     back: "ẽke aro mach dao\ngive him/her more fish",
