@@ -83,7 +83,7 @@ const cards = [
     back: "tumi tôbu bôse achô?\nare you still sitting/waiting?",
   },
   {
-    front: "এটুুকু খেয়ে নিন",
+    front: "এটুকু খেয়ে নিন",
     back: "eʈuku kheye nin\n(please) eat this little bit",
   },
   {
