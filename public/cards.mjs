@@ -109,7 +109,7 @@ const cards = [
   },
   {
     front: "আমি কত টাকা দেব?",
-    back: "ami kata ʈaka debô?\nhow much shall i pay you?",
+    back: "ami kɔtô ʈaka debô?\nhow much shall i pay you?",
   },
   {
     front: "আমটা সুন্দর, কিন্তু টক",
