@@ -226,7 +226,7 @@ const cards = [
   { front: "লাল", back: "lal\nred" },
   { front: "দিদি", back: "didi\nelder sister" },
   { front: "মূল", back: "mūl\nroot" },
-  { front: "ইনি আমার মা", back: "uni amar ma\nshe is my mother" },
+  { front: "উনি আমার মা", back: "uni amar ma\nshe is my mother" },
   { front: "উনি", back: "uni\nhe/she" },
   { front: "সোমবার", back: "sombar\n(on) monday" },
   { front: "আমরা শুনবো", back: "amra ʃunbo\nwe shall listen" },
