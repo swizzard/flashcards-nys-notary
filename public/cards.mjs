@@ -104,7 +104,7 @@ const cards = [
     back: "tomra maʈite ʃuyechô kænô?\nwhy did you lie (sleep) on the ground?",
   },
   {
-    front: "তিনি এলে তা৺কে বসতে বলো",
+    front: "তিনি এলে তাঁকে বসতে বলোো",
     back: "tini ele tãke bôste bôlo\ntell him to wait when he comes",
   },
   {
