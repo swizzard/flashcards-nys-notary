@@ -1,6 +1,57 @@
 // replace this with your own flashcards
 // `cards: Array<{front: string, back: string}`
 const cards = [
+  {
+    front: "আমার বড় বাক্সটা কোথায়?",
+    back: "amar bɔrô baksôʈa kothay?\nwhere is my big suitcase?",
+  },
+  {
+    front: "ডান দিক দিয়ে গেলে তাড়াতাড়ি হবে",
+    back: "ɖan dik diye gele taɽataɽi hɔbe\nif you go to the right it will be quick(er)",
+  },
+  {
+    front: "ফলগুলি সব খেয়ে ফেলেছ?",
+    back: "phɔlguli sɔb kheye phelechô?\nhave you eaten up all the fruit?",
+  },
+  {
+    front: "তোমার বাড়ি কোথায়?",
+    back: "tomar baɽi kothay?\nwhere is your house?",
+  },
+  {
+    front: "থাম, থাম - গাড়ি আসছে!",
+    back: "thamô, thamô - gaɽi asche\nstop, stop - there's a car coming!",
+  },
+  { front: "দিদিকে ডাক", back: "didike ɖakô\ncall (your) elder sister" },
+  { front: "ওটা ফেলে দিওনা", back: "oʈa phele diona\ndon't throw that away" },
+  {
+    front: "আজ বাড়ি থেকে বেরিওনা",
+    back: "aj baɽi theke beriona\ndon't leave the house today",
+  },
+  { front: "সে বিড়ি খায়", back: "se biɽi khay\nhe/she smokes biris" },
+  {
+    front: "ওগুলো দেশী ড়িম?",
+    back: "ogulo deʃī ɖim?\nare those country (free-range) eggs?",
+  },
+  { front: "কে ডাকছে", back: "ke ɖakche?\nwho's calling?" },
+  { front: "ছটায় ফিরে এসো", back: "chɔtay phire eso\ncome back at six" },
+  { front: "একটু দাঁড়ান", back: "ekʈu dɑ̃ran\n(please) wait a little" },
+  { front: "তুমি কোথায় থাক?", back: "tumi kothay thakô?\nwhere do you live?" },
+  { front: "তেল ফুরিয়ে গেছে", back: "tel phuyriye gæche\nthe oil's run out" },
+  { front: "এখানে থাম", back: "ekhane thamô\nstop here" },
+  {
+    front: "ট্রেন কখন ছাড়বে?",
+    back: "ʈren kɔkhôn chaɽbe?\nwhen will the train leave?",
+  },
+  { front: "গরুর গারি", back: "gôrur gaɽi\nbullock-cart" },
+  { front: "মোটর গাড়ি", back: "moʈôr gaɽi\nmotor car" },
+  { front: "ডাল আর তরকারি", back: "ɖal ar tɔrkari\ndal and vegetables" },
+  { front: "একটা বড় বাড়ি", back: "ækʈa bɔɽô baɽi\na big house" },
+  { front: "তিনি ডাকেন", back: "tini ɖaken\nhe/she calls" },
+  { front: "ফল", back: "phɔl\nfruit" },
+  { front: "ফুল", back: "phul\nflower" },
+  { front: "তুমি থাম", back: "tumi thamô\nyou stop" },
+  { front: "কথা", back: "kɔtha\nword, topic" },
+  { front: "মাথা", back: "matha\nhead" },
   { front: "যা", back: "y̌a\nwhich" },
   { front: "যে", back: "y̌e\nwho" },
   { front: "জমিদার", back: "jômidar\nlandlord" },
