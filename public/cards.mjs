@@ -15,7 +15,7 @@ const cards = {
     { front: "নুন নিই?", back: "nun nii?\nmay i take (some) salt?" },
     { front: "নুন", back: "nun\nsalt" },
     { front: "ইনি", back: "ini\nhe, she" },
-    { front: "উনি", back: "uni\nhe/she" },
+    { front: "উনি", back: "uni\nhe, she" },
     { front: "রুমাল", back: "rumal\nhandkerchief" },
     { front: "নীল", back: "nīl\nblue" },
     { front: "লাল", back: "lal\nred" },
@@ -406,6 +406,80 @@ const cards = {
     { front: "তুমি থাম", back: "tumi thamô\nyou stop" },
     { front: "কথা", back: "kɔtha\nword, topic" },
     { front: "মাথা", back: "matha\nhead" },
+  ],
+  9: [
+    { front: "পা", back: "pa\nfoot, leg" },
+    { front: "পা", back: "pɔth\npath" },
+    { front: "পরে", back: "pɔre\nafter(wards)" },
+    { front: "সে পড়ে", back: "se pɔɽe\nhe/she reads" },
+    { front: "কৌঁসুলি", back: "kôǔsulĩ\nlegal counsel" },
+    {
+      front: "আপনি বাংলা বলতে পারেন?",
+      back: "apni baɱla bôlte paren?\ncan you speak bengali?",
+    },
+    { front: "আপনি কেমন আছেন?", back: "apni kæmôn achen?\nhow are you?" },
+    { front: "টাকা-পয়সা", back: "ʈaka-pɔysa\nmoney" },
+    {
+      front: "আপনাকে অপেক্ষা করতে হবে",
+      back: "apnake ɔpekʂa kôrte hɔbe\nyou must wait",
+    },
+    { front: "পুরনো কাপড়", back: "purôno kapôɽ\nold clothes" },
+    {
+      front: "জামাটা ছিঁড়ে গেছে",
+      back: "jamaʈa chĩre gæche\nthe dress has torn",
+    },
+    {
+      front: "এটা আমাদের পোষা বেড়াল",
+      back: "eʈa amader poʂa beɽal\nthat is our pet cat",
+    },
+    {
+      front: "কি সুন্দর পাখি",
+      back: "ki sundôr pakhi\nwhat (a) beautiful bird(s)",
+    },
+    { front: "ওর ফুফু মারা গেছেন", back: "or phuphu mara gæchen" },
+    { front: "পৌষ মাস", back: "poǔʂ mas\nthe month of paus" },
+    { front: "পয়লা তারিখ", back: "pɔyla tarikh\nthe first (of the month)" },
+    { front: "আজ পর্যন্ত", back: "aj pôryôntô\nuntil today" },
+    { front: "একজন তরুণ কবি", back: "ækjɔn tôruɳ kôbi\na young poet" },
+    {
+      front: "আপনারা প্রত্যেকে অংশ নিন",
+      back: "apnara prôtyeke ɔɱʃô nin\n(please) each of you take part",
+    },
+    { front: "তোমার মাথার উপর", back: "tomar mathar upôr\nabove your head" },
+    {
+      front: "আমি পা পিছলে পড়ে গেলাম",
+      back: "ami pa pichle pôɽe gelam\ni slipped and fell",
+    },
+    {
+      front: "আপনি কখন পৌঁছলেন",
+      back: "apni kɔkhôn põǔchôlen\nwhen did you arrive",
+    },
+    {
+      front: "তোমাদের পড়াশোনা কেমন হযেছে",
+      back: "tomader pɔɽaʃona kæmôn hôyeche\nhow have your studies gone",
+    },
+    {
+      front: "পাশের বাড়িতে কারা এসেছেন",
+      back: "paʃer baɽite kara esechen\nwho has come to the house next door",
+    },
+    { front: "এখনো আলাপ হয়নি", back: "ækhôno alap hɔyni\nwe haven't met yet" },
+    { front: "এঁকে প্রণাম কর", back: "ẽke prôɳam kɔrô\ndo pran̥ām to him/her" },
+    {
+      front: "জায়গাটার বিবরণ দিতে পার",
+      back: "jaygaʈar bibɔrôɳ dite parô\ncan (you) give a description of the place",
+    },
+    {
+      front: "সেটা করুণ ব্যাপার",
+      back: "seʈa kôrun byæpar\nthat's a sad matter",
+    },
+    {
+      front: "এটুকু পথ হেঁটে যেতে পারবো",
+      back: "eʈuku pɔth hẽʈe y̌ete parbo\n (i'll) be able to walk this small distance",
+    },
+    {
+      front: "পড়াশোনা না করলে, পরীক্ষায় পাশ করতে পারবেনা",
+      back: "pɔɽaʃona na kôrle, pôrīkʂay paʃ kôrte parbena\nif you don't study, you won't pass the exam",
+    },
   ],
 };
 
