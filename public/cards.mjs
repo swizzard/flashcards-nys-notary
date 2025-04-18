@@ -26,7 +26,10 @@ const cards = {
     { front: "আমরা নিইনা", back: "amra niina\nwe do not take" },
     { front: "আম আনুন", back: "am anun\nbring (some) mangoes" },
     { front: "নিন না", back: "nin na\nplease take (some)" },
-    { front: "উনি আমার মামা", back: "uni amar mama\nhe is my (maternal) uncle" },
+    {
+      front: "উনি আমার মামা",
+      back: "uni amar mama\nhe is my (maternal) uncle",
+    },
     { front: "ইনি আমার মা", back: "ini amar ma\nshe is my mother" },
     { front: "আমার নাম রাউল", back: "amar nam raul\nmy name is raul" },
     { front: "আমার রুমাল নিন", back: "amar rumal nin\ntake my handkerchief" },
@@ -66,7 +69,10 @@ const cards = {
     { front: "ও দিল", back: "o dilô\nhe/she gave" },
     { front: "সোমবার", back: "sombar\n(on) monday" },
     { front: "আমরা শুনবো", back: "amra ʃunbo\nwe shall listen" },
-    { front: "ওই বইগুলো ওর?", back: "oi bôigulo or?\nare those books his/hers?" },
+    {
+      front: "ওই বইগুলো ওর?",
+      back: "oi bôigulo or?\nare those books his/hers?",
+    },
     { front: "বোনের", back: "bonerô\nsister's" },
     { front: "আমরা বাঙালী নই", back: "amra bangalī noi\nwe are not bengali" },
     { front: "মাসী", back: "masī\nmaternal aunt" },
@@ -81,7 +87,10 @@ const cards = {
       front: "আমি আর বসবোনা",
       back: "ami ar bôsbona\ni shall not sit/wait any longer",
     },
-    { front: "উনি আমার বোন নন", back: "uni amar bon nɔn\nshe is not my sister" },
+    {
+      front: "উনি আমার বোন নন",
+      back: "uni amar bon nɔn\nshe is not my sister",
+    },
     { front: "শুনুন!", back: "ʃunun!\nlisten!" },
     { front: "শনিবার", back: "ʃônibar\n(on) saturday" },
   ],
@@ -111,7 +120,7 @@ const cards = {
       front: "ও এলে খাবে?",
       back: "o ele khabe?\nwill he/she eat when he/she comes?",
     },
-    { front: "বইখানা নিয়ে এসো", back: "boikhana niya eso\nbring the book" },
+    { front: "বইখানা নিয়ে এসো", back: "boikhana niye eso\nbring the book" },
     { front: "এখানে এসে বসুন", back: "ekhane ese bɔsun\ncome and sit here" },
     { front: "উনি আসেননি? না", back: "uni asenni? na\nhasn't he/she come? no" },
     {
@@ -193,16 +202,33 @@ const cards = {
       front: "এঁর কাছে এসে বস",
       back: "ẽr kache ese bɔsô\ncome and sit near him/her",
     },
-    { front: "গোলমাল করছ কেন?", back: "golmal kôrchô kænô?\nwhy are you making a fuss?" },
+    {
+      front: "গোলমাল করছ কেন?",
+      back: "golmal kôrchô kænô?\nwhy are you making a fuss?",
+    },
     { front: "আমরা খেয়েছিলাম", back: "amra khayechilam\nwe ate" },
-    { front: "এঁকে বলবো না ওঁকে বলবো?", back: "ẽke bôlbô na õke bôlbô?\nshall i tell this person or that person?" },
-    { front: "উনে খুব রাগ করেছেন", back: "uni kub rag kôrechen?\nhe/she is very angry" },
-    { front: "ওঁর খুব অসুখ করেছিল", back: "õr khub ɔsukh kôrechilô\nhe was very ill" },
+    {
+      front: "এঁকে বলবো না ওঁকে বলবো?",
+      back: "ẽke bôlbô na õke bôlbô?\nshall i tell this person or that person?",
+    },
+    {
+      front: "উনে খুব রাগ করেছেন",
+      back: "uni kub rag kôrechen?\nhe/she is very angry",
+    },
+    {
+      front: "ওঁর খুব অসুখ করেছিল",
+      back: "õr khub ɔsukh kôrechilô\nhe was very ill",
+    },
     { front: "মা এখনি আসছেন", back: "ma ækhôni aschen\nmother is just coming" },
-    { front: "বিছানা রোদে দাও", back: "bichana rode dao\nput the bedding in the sunshine" },
+    {
+      front: "বিছানা রোদে দাও",
+      back: "bichana rode dao\nput the bedding in the sunshine",
+    },
     { front: "ওঁকে বল আমরা এসেছি", back: "õke bɔlô amra esechi" },
-    { front: "এঁরা মাছ মাংস কিছুই খাননা", back: "ẽra mach maɱsô kichui khanna\nthey don't eat fish or meat at all" },
-
+    {
+      front: "এঁরা মাছ মাংস কিছুই খাননা",
+      back: "ẽra mach maɱsô kichui khanna\nthey don't eat fish or meat at all",
+    },
   ],
   6: [
     { front: "তোমার", back: "tomar\nyour" },
@@ -254,7 +280,7 @@ const cards = {
       back: "tomra maʈite ʃuyechô kænô?\nwhy did you lie (sleep) on the ground?",
     },
     {
-      front: "তিনি এলে তাকে বসতে বলো",
+      front: "তিনি এলে তাঁকে বসতে বলো",
       back: "tini ele tãke bôste bôlo\ntell him to wait when he comes",
     },
     {
@@ -265,10 +291,8 @@ const cards = {
       front: "আমটা সুন্দর, কিন্তু টক",
       back: "amʈa sundôr, kintu ʈɔk\nthe mango is beautiful, but sour",
     },
-
   ],
   7: [
-
     { front: "যা", back: "y̌a\nwhich" },
     { front: "যে", back: "y̌e\nwho" },
     { front: "জমিদার", back: "jômidar\nlandlord" },
@@ -290,7 +314,10 @@ const cards = {
     { front: "ব্যবহার", back: "bybôhar\nbehavior" },
     { front: "বিশ্ববিদ্যালয়", back: "biʃvôbidyalɔy\nuniversity" },
     { front: "ওতে হাত দিওনা", back: "ote hat diona\ndon't touch that" },
-    { front: "এত জোরে হাঁটবেননা", back: "ætô jore hãʈbenna\ndon't walk so fast" },
+    {
+      front: "এত জোরে হাঁটবেননা",
+      back: "ætô jore hãʈbenna\ndon't walk so fast",
+    },
     {
       front: "আলোটা কি জ্বেলে দেব?",
       back: "aloʈa ki jvele debô?\nshall i turn on the light?",
@@ -357,16 +384,19 @@ const cards = {
       back: "ogulo deʃī ɖim?\nare those country (free-range) eggs?",
     },
     { front: "কে ডাকছে", back: "ke ɖakche?\nwho's calling?" },
-    { front: "ছটায় ফিরে এসো", back: "chɔtay phire eso\ncome back at six" },
-    { front: "একটু দাঁড়ান", back: "ekʈu dɑ̃ran\n(please) wait a little" },
-    { front: "তুমি কোথায় থাক?", back: "tumi kothay thakô?\nwhere do you live?" },
+    { front: "ছটায় ফিরে এসো", back: "chɔʈay phire eso\ncome back at six" },
+    { front: "একটু দাঁড়ান", back: "ekʈu dɑ̃ɽan\n(please) wait a little" },
+    {
+      front: "তুমি কোথায় থাক?",
+      back: "tumi kothay thakô?\nwhere do you live?",
+    },
     { front: "তেল ফুরিয়ে গেছে", back: "tel phuyriye gæche\nthe oil's run out" },
     { front: "এখানে থাম", back: "ekhane thamô\nstop here" },
     {
       front: "ট্রেন কখন ছাড়বে?",
       back: "ʈren kɔkhôn chaɽbe?\nwhen will the train leave?",
     },
-    { front: "গরুর গারি", back: "gôrur gaɽi\nbullock-cart" },
+    { front: "গরুর গাড়ি", back: "gôrur gaɽi\nbullock-cart" },
     { front: "মোটর গাড়ি", back: "moʈôr gaɽi\nmotor car" },
     { front: "ডাল আর তরকারি", back: "ɖal ar tɔrkari\ndal and vegetables" },
     { front: "একটা বড় বাড়ি", back: "ækʈa bɔɽô baɽi\na big house" },
@@ -376,7 +406,7 @@ const cards = {
     { front: "তুমি থাম", back: "tumi thamô\nyou stop" },
     { front: "কথা", back: "kɔtha\nword, topic" },
     { front: "মাথা", back: "matha\nhead" },
-  ]
+  ],
 };
 
 export default cards;
