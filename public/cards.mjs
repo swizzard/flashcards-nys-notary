@@ -436,7 +436,7 @@ const cards = {
       front: "কি সুন্দর পাখি",
       back: "ki sundôr pakhi\nwhat (a) beautiful bird(s)",
     },
-    { front: "ওর ফুফু মারা গেছেন", back: "or phuphu mara gæchen" },
+    { front: "ওর ফুফু মারা গেছেন", back: "or phuphu mara gæchen\nhis (paternal) aunt has died" },
     { front: "পৌষ মাস", back: "poǔʂ mas\nthe month of paus" },
     { front: "পয়লা তারিখ", back: "pɔyla tarikh\nthe first (of the month)" },
     { front: "আজ পর্যন্ত", back: "aj pôryôntô\nuntil today" },
