@@ -52,3 +52,14 @@ button#incorrect {
   background-color: var(--flag-red);
   color: #000;
 }
+
+a {
+  text-decoration: none;
+  background: #fff;
+  color: var(--flag-green);
+}
+
+a:visited,
+a:hover {
+  color: var(--flag-red);
+}

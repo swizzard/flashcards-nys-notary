@@ -396,7 +396,7 @@ const cards = {
       front: "ট্রেন কখন ছাড়বে?",
       back: "ʈren kɔkhôn chaɽbe?\nwhen will the train leave?",
     },
-    { front: "গরুর গাড়ি", back: "gôrur gaɽi\nbullock-cart" },
+    { front: "গরুর গাড়ি", back: "gôrur gaɽi\nbচালullock-cart" },
     { front: "মোটর গাড়ি", back: "moʈôr gaɽi\nmotor car" },
     { front: "ডাল আর তরকারি", back: "ɖal ar tɔrkari\ndal and vegetables" },
     { front: "একটা বড় বাড়ি", back: "ækʈa bɔɽô baɽi\na big house" },
@@ -436,7 +436,10 @@ const cards = {
       front: "কি সুন্দর পাখি",
       back: "ki sundôr pakhi\nwhat (a) beautiful bird(s)",
     },
-    { front: "ওর ফুফু মারা গেছেন", back: "or phuphu mara gæchen\nhis (paternal) aunt has died" },
+    {
+      front: "ওর ফুফু মারা গেছেন",
+      back: "or phuphu mara gæchen\nhis (paternal) aunt has died",
+    },
     { front: "পৌষ মাস", back: "poǔʂ mas\nthe month of paus" },
     { front: "পয়লা তারিখ", back: "pɔyla tarikh\nthe first (of the month)" },
     { front: "আজ পর্যন্ত", back: "aj pôryôntô\nuntil today" },
@@ -479,6 +482,75 @@ const cards = {
     {
       front: "পড়াশোনা না করলে, পরীক্ষায় পাশ করতে পারবেনা",
       back: "pɔɽaʃona na kôrle, pôrīkʂay paʃ kôrte parbena\nif you don't study, you won't pass the exam",
+    },
+  ],
+  10: [
+    { front: "চা", back: "ca\ntea" },
+    { front: "চাল", back: "cal\n(uncooked) rice" },
+    { front: "চাবি", back: "cabi\nkey" },
+    { front: "চোখ", back: "cokh\neye" },
+    { front: "চার", back: "car\nfour" },
+    { front: "সে চায়", back: "se cay\nhe/she wants" },
+    { front: "ভালো", back: "bhalo\ngood" },
+    { front: "ভুল", back: "bhul\nmistake" },
+    { front: "আমি ভুলে গেছি", back: "ami bule gechi\ni've forgotten" },
+    { front: "ভাত", back: "bhat\n(cooked) rice" },
+    { front: "কি হচ্ছে?", back: "ki hôcche?\nwhat is happening?" },
+    { front: "চুপ কর!", back: "cup kɔrô!\nbe quiet!" },
+    { front: "ভদ্রলোক", back: "bhɔdrôlok\ngentleman" },
+    { front: "চশমা", back: "cɔʃma\nspectacles" },
+    { front: "চৈত্র মাস", back: "coitrô mas\nthe month of caitra" },
+    {
+      front: "সে আমার চেয়ে বড়",
+      back: "se amar ceye bôɽô\nhe/she's older than me",
+    },
+    {
+      front: "ওর ভাইকে চিনিনা",
+      back: "or bhaike cinina\ni don't know his/her brother",
+    },
+    { front: "চল, বেড়াতে যাই", back: "cɔlô, bæɽate y̌ai\ncome, let's go out" },
+    { front: "উনি টাকা দিচ্ছেন", back: "uni ʈaka dicchen\nhe/she is paying" },
+    {
+      front: "ভদ্রলোককে চা দাও",
+      back: "bhɔdrôlokke ca dao\ngive the gentleman (some) tea",
+    },
+    {
+      front: "ভাত না খেয়ে, লুচি খান",
+      back: "bhat na keye, luci khan\ndon't eat rice, eat lucis",
+    },
+    {
+      front: "কয় চামচ চিনি দেব?",
+      back: "kɔy camôc cini debô?\nhow many spoon(ful)s of sugar shall (i) give (you)?",
+    },
+    { front: "দুই চামচ দিন", back: "dui camôc din\ngive (me) two spoon(ful)s" },
+    {
+      front: "আপনার ভাই কেমন আছে?",
+      back: "apnar bhai kæmôn ache?\nhow is your brother?",
+    },
+    { front: "ভালো আছে", back: "bhalô ache\nhe's well" },
+    {
+      front: "ভদ্রমহিলাটিকে চেন?",
+      back: "bhɔdrômôhilaʈike cenô?\ndo you know the lady?",
+    },
+    {
+      front: "চাবিটা কোথায় রাখলে?",
+      back: "cabiʈa kothay rakhle?\nwhere did (you) put the key?",
+    },
+    {
+      front: "আমার ভয়ানক ভূতের ভয় করে",
+      back: "amar bhɔyanôk bhūiter bhɔy kɔre\ni have a terrible fear of ghosts",
+    },
+    {
+      front: "বাড়িটা ভালো কিন্তু ভাড়া বেশী",
+      back: "baɽiʈ bhalo kintu bhaɽa beʃī\nthe house is good but the rent is too high",
+    },
+    {
+      front: "বাবার জন্য আমার খুব ভাবনা হয়",
+      back: "babar jônyô amar khub bhabna hɔy\ni worry a lot about (my) father",
+    },
+    {
+      front: "চোখে ভালো দেখতে পাইনা",
+      back: "cokhe bhalo dekhte paina\n(i) don't have good eyesight",
     },
   ],
 };
