@@ -409,7 +409,7 @@ const cards = {
   ],
   9: [
     { front: "পা", back: "pa\nfoot, leg" },
-    { front: "পা", back: "pɔth\npath" },
+    { front: "পাথ", back: "pɔth\npath" },
     { front: "পরে", back: "pɔre\nafter(wards)" },
     { front: "সে পড়ে", back: "se pɔɽe\nhe/she reads" },
     { front: "কৌঁসুলি", back: "kôǔsulĩ\nlegal counsel" },
