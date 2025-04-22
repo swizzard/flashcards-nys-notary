@@ -1,6 +1,10 @@
 // replace this with your own flashcards
 // `cards: Array<{front: string, back: string}`
 const cards = {
+  misc: [
+    { front: "ইংরেজি", back: "iɱreji\nenglish" },
+    { front: "প্রতিবেশী", back: "pratiibeʃi\nneighbor" },
+  ],
   1: [
     { front: "আম", back: "am\nmango" },
     { front: "মা", back: "ma\nmother" },
