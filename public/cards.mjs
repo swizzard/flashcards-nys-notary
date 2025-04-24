@@ -542,7 +542,7 @@ const cards = {
     },
     {
       front: "আমার ভয়ানক ভূতের ভয় করে",
-      back: "amar bhɔyanôk bhūiter bhɔy kɔre\ni have a terrible fear of ghosts",
+      back: "amar bhɔyanôk bhūter bhɔy kɔre\ni have a terrible fear of ghosts",
     },
     {
       front: "বাড়িটা ভালো কিন্তু ভাড়া বেশী",
