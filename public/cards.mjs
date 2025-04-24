@@ -216,8 +216,8 @@ const cards = {
       back: "ẽke bôlbô na õke bôlbô?\nshall i tell this person or that person?",
     },
     {
-      front: "উনে খুব রাগ করেছেন",
-      back: "uni kub rag kôrechen?\nhe/she is very angry",
+      front: "উনি খুব রাগ করেছেন",
+      back: "uni kub rag kôrechen\nhe/she is very angry",
     },
     {
       front: "ওঁর খুব অসুখ করেছিল",
