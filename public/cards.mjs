@@ -3,7 +3,7 @@
 const cards = {
   misc: [
     { front: "ইংরেজি", back: "iɱreji\nenglish" },
-    { front: "প্রতিবেশী", back: "pratiibeʃi\nneighbor" },
+    { front: "প্রতিবেশী", back: "pratibeʃī\nneighbor" },
   ],
   1: [
     { front: "আম", back: "am\nmango" },
@@ -216,8 +216,8 @@ const cards = {
       back: "ẽke bôlbô na õke bôlbô?\nshall i tell this person or that person?",
     },
     {
-      front: "উনে খুব রাগ করেছেন",
-      back: "uni kub rag kôrechen?\nhe/she is very angry",
+      front: "উনি খুব রাগ করেছেন",
+      back: "uni kub rag kôrechen\nhe/she is very angry",
     },
     {
       front: "ওঁর খুব অসুখ করেছিল",
@@ -228,7 +228,7 @@ const cards = {
       front: "বিছানা রোদে দাও",
       back: "bichana rode dao\nput the bedding in the sunshine",
     },
-    { front: "ওঁকে বল আমরা এসেছি", back: "õke bɔlô amra esechi" },
+    { front: "ওঁকে বল আমরা এসেছি", back: "õke bɔlô amra esechi\ntell him/her (that) we have come" },
     {
       front: "এঁরা মাছ মাংস কিছুই খাননা",
       back: "ẽra mach maɱsô kichui khanna\nthey don't eat fish or meat at all",
@@ -542,7 +542,7 @@ const cards = {
     },
     {
       front: "আমার ভয়ানক ভূতের ভয় করে",
-      back: "amar bhɔyanôk bhūiter bhɔy kɔre\ni have a terrible fear of ghosts",
+      back: "amar bhɔyanôk bhūter bhɔy kɔre\ni have a terrible fear of ghosts",
     },
     {
       front: "বাড়িটাা ভালো কিন্তু ভাড়া বেশী",
