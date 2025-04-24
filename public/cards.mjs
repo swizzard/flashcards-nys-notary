@@ -228,7 +228,7 @@ const cards = {
       front: "বিছানা রোদে দাও",
       back: "bichana rode dao\nput the bedding in the sunshine",
     },
-    { front: "ওঁকে বল আমরা এসেছি", back: "õke bɔlô amra esechi" },
+    { front: "ওঁকে বল আমরা এসেছি", back: "õke bɔlô amra esechi\ntell him/her (that) we have come" },
     {
       front: "এঁরা মাছ মাংস কিছুই খাননা",
       back: "ẽra mach maɱsô kichui khanna\nthey don't eat fish or meat at all",
