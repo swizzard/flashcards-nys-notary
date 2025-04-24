@@ -3,7 +3,7 @@
 const cards = {
   misc: [
     { front: "ইংরেজি", back: "iɱreji\nenglish" },
-    { front: "প্রতিবেশী", back: "pratiibeʃi\nneighbor" },
+    { front: "প্রতিবেশী", back: "pratibeʃī\nneighbor" },
   ],
   1: [
     { front: "আম", back: "am\nmango" },
