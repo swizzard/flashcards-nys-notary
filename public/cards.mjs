@@ -545,8 +545,8 @@ const cards = {
       back: "amar bhɔyanôk bhūiter bhɔy kɔre\ni have a terrible fear of ghosts",
     },
     {
-      front: "বাড়িটা ভালো কিন্তু ভাড়া বেশী",
-      back: "baɽiʈ bhalo kintu bhaɽa beʃī\nthe house is good but the rent is too high",
+      front: "বাড়িটাা ভালো কিন্তু ভাড়া বেশী",
+      back: "baɽiʈa bhalo kintu bhaɽa beʃī\nthe house is good but the rent is too high",
     },
     {
       front: "বাবার জন্য আমার খুব ভাবনা হয়",
@@ -555,6 +555,72 @@ const cards = {
     {
       front: "চোখে ভালো দেখতে পাইনা",
       back: "cokhe bhalo dekhte paina\n(i) don't have good eyesight",
+    },
+  ],
+  11: [
+    { front: "ঝোল", back: "jhol\nthe sauce of a curry" },
+    { front: "ঝড়", back: "jhɔɽ\nstorm" },
+    { front: "ঝি", back: "jhi\nmaidservant, charlady" },
+    { front: "ঝগড়া", back: "jhɔgɽa\nquarrel" },
+    { front: "মাঝি", back: "majhi\nboatman" },
+    { front: "ঠিক", back: "ʈhik\nright, correct" },
+    { front: "ঠিকানা", back: "ʈhikana\naddress" },
+    { front: "ঠাট্টা", back: "ʈhaʈʈa\nteasing" },
+    { front: "মাঠ", back: "maʈh\nopen land" },
+    { front: "ঢেউ", back: "ɖheu\nwave, billow" },
+    { front: "সে বোঝে", back: "se bojhe\nhe/she understands" },
+    { front: "তিনি ওঠেন", back: "tini oʈhen\nhe/she gets up" },
+    { front: "গাঢ় লাল", back: "gaɽhô lal\ndeep red" },
+    { front: "রাঢ় বঙ্গ", back: "raɽh bɔngô\nrarh bengal" },
+    { front: "প্রৌঢ় বয়স", back: "proǔɽhô bɔyôs\nmiddle-age" },
+    { front: "কথাটা ঠিক", back: "kɔthaʈa ʈhik\nwhat (you) say is right" },
+    {
+      front: "ঝি মেঝে ঝাঁট দিচ্ছে",
+      back: "jhi mehje jhãʈ dicche\nthe maid is sweeping the floor",
+    },
+    {
+      front: "আমি বাংলা বুঝিনা",
+      back: "ami baɱla bujhina\ni don't understand bengali",
+    },
+    { front: "ঢিল মেরোনা", back: "ɖhil merona\ndon't throw stones" },
+    { front: "ভাত ঢাক", back: "bhat ɖhakô\ncover the rice" },
+    { front: "ঠিক আছে", back: "ʈhik ache\nall right" },
+    {
+      front: "আপনার ঠিকানাটা বলুন",
+      back: "apnar ʈhikanaʈa bôlun\n(please) tell (me) your address",
+    },
+    {
+      front: "আষাঢ় মাসের মাঝামাঝি",
+      back: "aʂaɽh maser majhamajhi\nin the middle of āṣāṛh",
+    },
+    {
+      front: "চিঠিটা পাঠিয়ে দাও",
+      back: "ciʈhiʈa paʈhiya dao\npost the letter",
+    },
+    {
+      front: "মেঝেতে শুয়ে ওর ঠাণ্ডা লেগেছে",
+      back: "mejhete ʃuye or ʈhaɳɖa legeche\nhe/she has caught a chill by sleeping on the floor",
+    },
+    { front: "এত ভোরে উঠোনা", back: "ætô bhore uʈhona\ndon't get up so early" },
+    {
+      front: "ঝগড়া করছ কেন?",
+      back: "jhɔgɽa kôrchô kænô?\nwhy are you quarrelling?",
+    },
+    {
+      front: "মাছের ঝোলে কি ঝাল হয়েছে?",
+      back: "macher jhole ki jhal hôyeche?\nis the fish curry very hot?",
+    },
+    {
+      front: "এত বড় গাড়ি কি করে ঢুকবে?",
+      back: "ætô bɔrô gaɽi ki kôre ɖhukbe?\nhow will such a big vehicle enter?",
+    },
+    {
+      front: "হঠাৎ ঝড় উঠলো",
+      back: "hɔʈhat jhɔr uʈhlo\nsuddenly a storm arose",
+    },
+    {
+      front: "মাঝি রওনা হতে রাজী হলনা",
+      back: "majhi rɔona hôte rajī hôlôna\nthe boatman was not willing to set out",
     },
   ],
 };
