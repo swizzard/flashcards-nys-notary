@@ -228,7 +228,10 @@ const cards = {
       front: "বিছানা রোদে দাও",
       back: "bichana rode dao\nput the bedding in the sunshine",
     },
-    { front: "ওঁকে বল আমরা এসেছি", back: "õke bɔlô amra esechi\ntell him/her (that) we have come" },
+    {
+      front: "ওঁকে বল আমরা এসেছি",
+      back: "õke bɔlô amra esechi\ntell him/her (that) we have come",
+    },
     {
       front: "এঁরা মাছ মাংস কিছুই খাননা",
       back: "ẽra mach maɱsô kichui khanna\nthey don't eat fish or meat at all",
@@ -621,6 +624,83 @@ const cards = {
     {
       front: "মাঝি রওনা হতে রাজী হলনা",
       back: "majhi rɔona hôte rajī hôlôna\nthe boatman was not willing to set out",
+    },
+  ],
+  12: [
+    { front: "ঘি", back: "ghi\nghee" },
+    { front: "ঘাম", back: "gham\nsweat" },
+    { front: "ঘাস", back: "ghas\ngrass" },
+    { front: "ঘর", back: "ghɔr\nroom" },
+    { front: "ঘোড়া", back: "ghɔɽa\nhorse" },
+    { front: "ঘড়ি", back: "ghôɽi\nwatch/clock" },
+    { front: "ঘণ্টা", back: "ghɔɳʈa\nhour" },
+    { front: "ধোপা", back: "dhopa\nwasherman" },
+    { front: "ধূলো", back: "dhūlo\ndust" },
+    { front: "সে হাত ধোয়", back: "se hat dhoy\nhe/she washes his/her hands" },
+    {
+      front: "এখানে বাস ধরা যায়",
+      back: "ekhane bas dhɔra y̌ay\nbusses can be caught here",
+    },
+    {
+      front: "বাংলাদেশে ছটি ঋতু",
+      back: "baɱladeʃe chɔʈi ɾ̥tu\n(there are) six seasons in bangladesh",
+    },
+    { front: "আমার অনেক ঋণ", back: "amar ɔnek ɾ̥ɳ\ni'm heavily in debt" },
+    { front: "বৃষ্টি হচ্ছে", back: "bɾ̥ʂʈi hôcche\nit's raining" },
+    { front: "দোকানটা বন্ধ", back: "dokanʈa bɔndhô\nthe shop's shut" },
+    { front: "আমরা শুধু বন্ধু", back: "amra ʃudhu bôndhu" },
+    {
+      front: "আমি আড়াই ঘণ্টা বসে আছি",
+      back: "ami aɽai ghɔɳʈa bôse achi\ni've been waiting two and a half hours",
+    },
+    {
+      front: "আধ সের দুধ নেব",
+      back: "adh ser dudh nebô\ni'll take half a seer of milk",
+    },
+    {
+      front: "সে সমস্ত পৃথিবী ঘুরেছে",
+      back: "se sɔmɔstô pɾ̥thibī ghureche\nhe's wandered all (over) the world",
+    },
+    {
+      front: "রোদে ঘুরবেননা - মাথা ধরবে",
+      back: "rode ghurbenna - matha dhôrbe",
+    },
+    {
+      front: "ওই বাড়ি থেকে ধোঁয়া আসছে!",
+      back: "oi baɽi theke dhõya asche!\nthere's smoke coming from that house!",
+    },
+    {
+      front: "এতক্ষণ ঘুমচ্ছিলে?",
+      back: "ætôkʂôɳ ghumôcchile?\nwere (you) sleeping all that time?",
+    },
+    {
+      front: "বুধবার কি স্কুল বন্ধ না খোলা?",
+      back: "budhbar ki skul bɔndhô na khola?\nis the school open or closed (on) wednesday(s)?",
+    },
+    { front: "বোধ হয় বন্ধ", back: "bodh hɔy bɔndhô\nprobably closed" },
+    {
+      front: "এই রাস্তা ধরে বাজারে যাওয়া যায়?",
+      back: "ei rasta dhôre y̌aoya y̌ay?\ncan (i) get to the market by this road?",
+    },
+    {
+      front: "ঘাটের পথে খুব ধূলো",
+      back: "ghaʈer pɔthe khub dhūlo\nthere's a lot of dust on the path to the ghaāṭ",
+    },
+    {
+      front: "এত সুখ আমার হৃদয়ে!",
+      back: "ætô sukh amar hɾ̥dɔye!\nsuch joy in my heart!",
+    },
+    {
+      front: "আজ দিনটা একেবারে বৃথা গেল",
+      back: "aj dinʈa ækebare bɾ̥tha gælô\ntoday the day has been absolutely futile",
+    },
+    {
+      front: "সে শুধু ধুতি পরে",
+      back: "se ʃudhu dhuti pɔre\nhe only wears a dhoti",
+    },
+    {
+      front: "ঘোড়াটা থুব ধীরে-ধীরে টানছে",
+      back: "ghoɽaʈa khub dhīre-dhīre ʈanche\nthe horse is pulling very slowly",
     },
   ],
 };
