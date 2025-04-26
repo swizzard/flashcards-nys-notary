@@ -4,6 +4,14 @@ const cards = {
   misc: [
     { front: "ইংরেজি", back: "iɱreji\nenglish" },
     { front: "প্রতিবেশী", back: "pratibeʃī\nneighbor" },
+    { front: "জীবনযাত্রার ব্যয়", back: "jibônɔyatrar by̌ay\ncost of living" },
+    { front: "কমানো", back: "kômano\nlowering,reducing" },
+    { front: "দুঃখিত", back: "duḥkhitɔ\nsorry" },
+    { front: "মেয়র হিসেবে", back: "meyôr hisebe\nas mayor" },
+    {
+      front: "নিউ ইয়র্ক স্টেট অ্যাসেম্বলি",
+      back: "niu iyɔrk sʈeʈ ôyasembɔli\nnew york state assembly",
+    },
   ],
   1: [
     { front: "আম", back: "am\nmango" },
