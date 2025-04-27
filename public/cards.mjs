@@ -671,7 +671,7 @@ const cards = {
     },
     {
       front: "রোদে ঘুরবেননা - মাথা ধরবে",
-      back: "rode ghurbenna - matha dhôrbe",
+      back: "rode ghurbenna - matha dhôrbe\ndon't wander in the sun - you'll get a headache",
     },
     {
       front: "ওই বাড়ি থেকে ধোঁয়া আসছে!",
