@@ -656,7 +656,7 @@ const cards = {
     { front: "আমার অনেক ঋণ", back: "amar ɔnek ɾ̥ɳ\ni'm heavily in debt" },
     { front: "বৃষ্টি হচ্ছে", back: "bɾ̥ʂʈi hôcche\nit's raining" },
     { front: "দোকানটা বন্ধ", back: "dokanʈa bɔndhô\nthe shop's shut" },
-    { front: "আমরা শুধু বন্ধু", back: "amra ʃudhu bôndhu" },
+    { front: "আমরা শুধু বন্ধু", back: "amra ʃudhu bôndhu\nwe're just friends" },
     {
       front: "আমি আড়াই ঘণ্টা বসে আছি",
       back: "ami aɽai ghɔɳʈa bôse achi\ni've been waiting two and a half hours",
