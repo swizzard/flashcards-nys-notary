@@ -655,7 +655,7 @@ const cards = {
     { front: "আমার অনেক ঋণ", back: "amar ɔnek ɾ̥ɳ\ni'm heavily in debt" },
     { front: "বৃষ্টি হচ্ছে", back: "bɾ̥ʂʈi hôcche\nit's raining" },
     { front: "দোকানটা বন্ধ", back: "dokanʈa bɔndhô\nthe shop's shut" },
-    { front: "আমরা শুধু বন্ধু", back: "amra ʃudhu bôndhu" },
+    { front: "আমরা শুধু বন্ধু", back: "amra ʃudhu bôndhu\nwe're just friends" },
     {
       front: "আমি আড়াই ঘণ্টা বসে আছি",
       back: "ami aɽai ghɔɳʈa bôse achi\ni've been waiting two and a half hours",
@@ -670,7 +670,7 @@ const cards = {
     },
     {
       front: "রোদে ঘুরবেননা - মাথা ধরবে",
-      back: "rode ghurbenna - matha dhôrbe",
+      back: "rode ghurbenna - matha dhôrbe\ndon't wander in the sun - you'll get a headache",
     },
     {
       front: "ওই বাড়ি থেকে ধোঁয়া আসছে!",
@@ -720,11 +720,11 @@ const cards = {
     { front: "ঠিক", back: "ʈhik\nright, correct, exactly" },
     { front: "বাসা", back: "basa\nresidence" },
     { front: "সাইকেল", back: "saikel\nbicycle" },
+    { front: "প্রতিবেশী", back: "prôtibeʃī\nneighbor" },
     { front: "ভাই-এর", back: "bhai-er\nbrother's" },
     { front: "ফটো", back: "phôʈo\nphoto" },
     { front: "পর", back: "pɔr\nafter (+ poss)" },
     { front: "তোলা", back: "tola\ntaking, capturing (a photo)" },
-    { front: "প্রতিবেশী", back: "pratibeʃī\nneighbor" },
     { front: "বারান্দা", back: "baranda\nverandah, balcony" },
     { front: "পিছন", back: "pichôn\nback, rear" },
     {
