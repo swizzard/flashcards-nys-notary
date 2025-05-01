@@ -1,5 +1,5 @@
 // replace this with your own flashcards
-// `cards: Array<{front: string, back: string}`
+// `cards: Record<string, Array<{front: string, back: string}>>`
 const cards = {
   misc: [
     { front: "ইংরেজি", back: "iɱreji\nenglish" },
