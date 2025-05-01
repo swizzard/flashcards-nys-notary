@@ -711,7 +711,7 @@ const cards = {
     },
   ],
   14: [
-    { front: "আব্বাা", back: "abba\ndad" },
+    { front: "আব্বা", back: "abba\ndad" },
     { front: "আম্মা", back: "amma\nmom" },
     { front: "হ্যাঁ", back: "hyã\nyes" },
     { front: "সাধারণত", back: "sadharɔɳɔtô\ngenerally, usually" },
