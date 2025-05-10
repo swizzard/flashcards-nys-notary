@@ -496,7 +496,7 @@ const cards = {
     { front: "সে চায়", back: "se cay\nhe/she wants" },
     { front: "ভালো", back: "bhalo\ngood" },
     { front: "ভুল", back: "bhul\nmistake" },
-    { front: "আমি ভুলে গেছি", back: "ami bule gechi\ni've forgotten" },
+    { front: "আমি ভুলে গেছি", back: "ami bhule gechi\ni've forgotten" },
     { front: "ভাত", back: "bhat\n(cooked) rice" },
     { front: "কি হচ্ছে?", back: "ki hôcche?\nwhat is happening?" },
     { front: "চুপ কর!", back: "cup kɔrô!\nbe quiet!" },
