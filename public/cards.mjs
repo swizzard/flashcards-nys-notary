@@ -738,6 +738,10 @@ const cards = {
       front: "নিউ ইয়র্ক স্টেট অ্যাসেম্বলি",
       back: "niu iyɔrk sʈeʈ ôyasembɔli\nnew york state assembly",
     },
+    { front: "অগ্রিম", back: "ôgrim\nadvance, early, chief, elder"},
+    { front: "ভোটদান", back: "bhoʈdan\nvoting" },
+    { front: "ভোটকেন্দ্র", back: "bhoʈkendrô\npolling place"},
+    { front: "ধন্যবাদ", back: "dhônyôbad\nthank you" }
   ],
   numerals: [
     { front: "১", back: "1" },
