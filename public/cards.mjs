@@ -839,6 +839,10 @@ const cards = {
     { front: "দাদু", back: "dadu\ngrandfather" },
     { front: "ঠাম্মা", back: "ʈhamma\ngrandmother" },
   ],
+  digraphs: [
+    { front: "ন্থ", back: "ন + থ\nn + th" },
+    { front: "দ্ধ", back: "দ + ধ\nd + dh" },
+  ],
 };
 
 export default cards;
