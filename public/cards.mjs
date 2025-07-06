@@ -741,7 +741,9 @@ const cards = {
     { front: "অগ্রিম", back: "ôgrim\nadvance, early, chief, elder"},
     { front: "ভোটদান", back: "bhoʈdan\nvoting" },
     { front: "ভোটকেন্দ্র", back: "bhoʈkendrô\npolling place"},
-    { front: "ধন্যবাদ", back: "dhônyôbad\nthank you" }
+    { front: "ধন্যবাদ", back: "dhônyôbad\nthank you" },
+    { front: "অন‍্যায়", back: "ônyayɔ\ninjustice" },
+    { front: "হয়ে", back: "hɔye\nthrough, via (+ obj), on behalf of (+ gen)" },
   ],
   numerals: [
     { front: "১", back: "1" },
