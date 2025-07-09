@@ -838,6 +838,18 @@ const cards = {
     { front: "স্ত্রী", back: "strī\nwife" },
     { front: "দাদু", back: "dadu\ngrandfather" },
     { front: "ঠাম্মা", back: "ʈhamma\ngrandmother" },
+    { front: "নাতি", back: "nati\ngrandson" },
+    { front: "নাতনি", back: "natni\ngranddaughter" },
+    { front: "ভাগ্নী", back: "bhagnī\nneice" },
+    { front: "ভাগ্নে", back: "bhagne\nnephew" },
+  ],
+  "mango 3": [
+    { front: "বা", back: "ba\nwow" },
+    { front: "সত্যি", back: "satyi\ntrue, truly, really" },
+    { front: "তাই", back: "tai\nso, therefore" },
+    { front: "সাথে", back: "sathe\nwith (+ poss)" },
+    { front: "বন্ধু", back: "bôndhu\nfriend" },
+    { front: "দারুন", back: "great, fabulous" },
   ],
   digraphs: [
     { front: "ন্থ", back: "ন + থ\nn + th" },
