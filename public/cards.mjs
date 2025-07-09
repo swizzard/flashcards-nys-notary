@@ -744,6 +744,9 @@ const cards = {
     { front: "ধন্যবাদ", back: "dhônyôbad\nthank you" },
     { front: "অন‍্যায়", back: "ônyayɔ\ninjustice" },
     { front: "হয়ে", back: "hɔye\nthrough, via (+ obj), on behalf of (+ gen)" },
+    { front: "পরা", back: "pɔra\nto wear" },
+    { front: "পারা", back: "para\nto be able to" },
+    { front: "পর", back: "pɔr\nafter (+ obj)" },
   ],
   numerals: [
     { front: "১", back: "1" },
