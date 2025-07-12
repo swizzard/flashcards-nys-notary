@@ -747,6 +747,9 @@ const cards = {
     { front: "পরা", back: "pɔra\nto wear" },
     { front: "পারা", back: "para\nto be able to" },
     { front: "পর", back: "pɔr\nafter (+ obj)" },
+    { front: "মতো", back: "mɔto\nlike, similar to, resembling" },
+    { front: "মত", back: "mɔt\nopinion, view, doctrine" },
+    { front: "সঙ্গী", back: "sɔŋɡī\npartner, companion, associate" },
   ],
   numerals: [
     { front: "১", back: "1" },
@@ -857,6 +860,7 @@ const cards = {
   digraphs: [
     { front: "ন্থ", back: "ন + থ\nn + th" },
     { front: "দ্ধ", back: "দ + ধ\nd + dh" },
+    { front: "ঙ্গ", back: "ঙ + গ\nŋ + g" }
   ],
 };
 
