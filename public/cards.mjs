@@ -848,7 +848,7 @@ const cards = {
   ],
   "mango 3": [
     { front: "বা", back: "ba\nwow" },
-    { front: "সত্যি", back: "satyi\ntrue, truly, really" },
+    { front: "সত্যি", back: "sɔtyi\ntrue, truly, really" },
     { front: "তাই", back: "tai\nso, therefore" },
     { front: "সাথে", back: "sathe\nwith (+ poss)" },
     { front: "বন্ধু", back: "bôndhu\nfriend" },
