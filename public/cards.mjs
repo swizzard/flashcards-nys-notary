@@ -855,12 +855,15 @@ const cards = {
     { front: "তাই", back: "tai\nso, therefore" },
     { front: "সাথে", back: "sathe\nwith (+ poss)" },
     { front: "বন্ধু", back: "bôndhu\nfriend" },
-    { front: "দারুন", back: "great, fabulous" },
+    { front: "দারুন", back: "darun\ngreat, fabulous" },
+    { front: "পরিচয়", back: "pôricôy\nfamiliarity, acquaintance, reputation" },
+    { front: "করিয়ে দেওয়া", back: "kôriye dæowa\nto make happen" },
   ],
   digraphs: [
     { front: "ন্থ", back: "ন + থ\nn + th" },
     { front: "দ্ধ", back: "দ + ধ\nd + dh" },
-    { front: "ঙ্গ", back: "ঙ + গ\nŋ + g" }
+    { front: "ঙ্গ", back: "ঙ + গ\nŋ + g" },
+    { front: "ঙ্ক", back: "ঙ + ক\nŋ + k" },
   ],
 };
 
