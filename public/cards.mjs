@@ -858,7 +858,11 @@ const cards = {
     { front: "দারুন", back: "darun\ngreat, fabulous" },
     { front: "পরিচয়", back: "pôricôy\nfamiliarity, acquaintance, reputation" },
     { front: "করিয়ে দেওয়া", back: "kôriye dæowa\nto make happen" },
-    { front: "কফি", uack: "kôfi\ncoffee" },
+    { front: "কফি", back: "kôfi\ncoffee" },
+    { front: "সুন্দরী", back: "sundôrī\npretty" },
+    { front: "হ্যান্ডসাম", back: "hyændsam\nhandsome" },
+    { front: "কমবয়সী", back: "kɔmbɔysī\nyoung" },
+    { front: "বয়স্ক", back: "bɔyɔskɔ\nold, elderly" }
   ],
   digraphs: [
     { front: "ন্থ", back: "ন + থ\nn + th" },
