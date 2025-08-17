@@ -750,6 +750,9 @@ const cards = {
     { front: "মতো", back: "mɔto\nlike, similar to, resembling" },
     { front: "মত", back: "mɔt\nopinion, view, doctrine" },
     { front: "সঙ্গী", back: "sɔŋɡī\npartner, companion, associate" },
+    { front: "পদ", back: "pɔd\nposition, post, step" },
+    { front: "প্রার্থী", back: "prarthī\ncandidate, candidacy" },
+    { front: "স্থিতিশীলতা", back: "sthitiʃīlta\nstability, freeze" },
   ],
   numerals: [
     { front: "১", back: "1" },
@@ -870,6 +873,7 @@ const cards = {
     { front: "ন্দ", back: "ন + দ\nn + d" },
     { front: "ঙ্গ", back: "ঙ + গ\nŋ + g" },
     { front: "ঙ্ক", back: "ঙ + ক\nŋ + k" },
+    { front: "স্থ", back: "স + থ\ns + th" },
   ],
 };
 
