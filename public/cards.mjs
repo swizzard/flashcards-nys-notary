@@ -757,7 +757,7 @@ const cards = {
     { front: "বিনামূল‍্যে", back: "binamūlye\nfree of cost" },
     { front: "শিশু", back: "ʃiʃu\nchild, infant" },
     { front: "শিশুসেবা", back: "ʃiʃuseba\nchildcare" },
-    { front: "নিরাপদ", bqck: "nirapôd\nsafe" },
+    { front: "নিরাপদ", back: "nirapôd\nsafe" },
     { front: "সড়ক", back: "sɔɽôk\nroad, street" },
     { front: "নির্বাচন", back: "nirbacôn\nelection, selection" },
     { front: "শময়", back: "sɔmôy\ntime" },
