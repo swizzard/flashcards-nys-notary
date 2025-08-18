@@ -774,7 +774,7 @@ const cards = {
     { front: "৮\nআট", back: "8" },
     { front: "৯\nনয়টি", back: "9" },
     { front: "০\nশূন‍্য", back: "0" },
-    { front: "১০\nদশ", back: "10 },
+    { front: "১০\nদশ", back: "10" },
   ],
   pronouns: [
     { front: "আমি", back: "1st sg nom" },
